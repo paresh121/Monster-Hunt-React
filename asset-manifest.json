@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Monster-Hunt-React/static/css/main.aeb6e97d.chunk.css",
+    "main.js": "/Monster-Hunt-React/static/js/main.6380391f.chunk.js",
+    "main.js.map": "/Monster-Hunt-React/static/js/main.6380391f.chunk.js.map",
+    "runtime-main.js": "/Monster-Hunt-React/static/js/runtime-main.749d01fb.js",
+    "runtime-main.js.map": "/Monster-Hunt-React/static/js/runtime-main.749d01fb.js.map",
+    "static/js/2.a77bc2e5.chunk.js": "/Monster-Hunt-React/static/js/2.a77bc2e5.chunk.js",
+    "static/js/2.a77bc2e5.chunk.js.map": "/Monster-Hunt-React/static/js/2.a77bc2e5.chunk.js.map",
+    "static/js/3.9ae1cc43.chunk.js": "/Monster-Hunt-React/static/js/3.9ae1cc43.chunk.js",
+    "static/js/3.9ae1cc43.chunk.js.map": "/Monster-Hunt-React/static/js/3.9ae1cc43.chunk.js.map",
+    "index.html": "/Monster-Hunt-React/index.html",
+    "static/css/main.aeb6e97d.chunk.css.map": "/Monster-Hunt-React/static/css/main.aeb6e97d.chunk.css.map",
+    "static/js/2.a77bc2e5.chunk.js.LICENSE.txt": "/Monster-Hunt-React/static/js/2.a77bc2e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Monster-Hunt-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749d01fb.js",
+    "static/js/2.a77bc2e5.chunk.js",
+    "static/css/main.aeb6e97d.chunk.css",
+    "static/js/main.6380391f.chunk.js"
+  ]
+}
